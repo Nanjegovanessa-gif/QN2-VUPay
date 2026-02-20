@@ -76,7 +76,7 @@ public class VUCourses {
         
         // If course not found
         if(!found) {
-            System.out.println("\n❌ Wrong Module Code details");
+            System.out.println("\n Wrong Module Code details");
             System.out.println("Please enter a valid code: BSF, BIT, BCS, or BCE");
         }
         
